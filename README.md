@@ -5,7 +5,12 @@
 ### 1.2 Especificos
 
 ## 2.MARCO TEÓRICO (RESUMEN)
+### CAPÍTULO 15: Circuitos RC
 ![Parte 1](https://user-images.githubusercontent.com/93681159/154176960-e0ddebf4-60ee-4844-91b8-599caedae37c.jpg)
+![Parte 2](https://user-images.githubusercontent.com/93681159/154377438-81256962-0752-4554-8efe-cf3cdfa270f9.jpg)
+
+### CAPÍTULO 16: Circuitos RL
+![Cap16](https://user-images.githubusercontent.com/93681159/154377454-2272e82b-b488-4f53-9cd4-895f1f22b9c7.jpg)
 
 ## 3.EJERCICIOS
 ### CAPITULO 15: CIRCUITOS RC
