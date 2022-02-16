@@ -8,7 +8,7 @@
 ![Parte 1](https://user-images.githubusercontent.com/93681159/154176960-e0ddebf4-60ee-4844-91b8-599caedae37c.jpg)
 
 ## 3.EJERCICIOS
-### CIRCUITOS RC
+### CAPITULO 15: CIRCUITOS RC
 #### PARTE 1: CIRCUITOS EN SERIE
 ##### SECCIÓN 15–1 El sistema de los números complejos
 1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
