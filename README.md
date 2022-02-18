@@ -141,6 +141,7 @@ salida en el circuito de la figura 16-71.
 #### SECCIÓN 16–8 Aplicaciones básicas
 39. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia
 en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+
 ![image](https://user-images.githubusercontent.com/93666408/154599238-2eb04140-88a2-4130-8066-a44a55ad7f44.png)
 
 41. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia
@@ -151,6 +152,7 @@ de 8 kHz.
 #### SECCIÓN 16–9 Localización de fallas
 43. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
 (a) L1 abierto (b) L2 abierto (c) R1 abierto (d) un cortocircuito a través de R2
+
 ![image](https://user-images.githubusercontent.com/93666408/154599609-11d68457-4632-4e84-a8cc-0062abdfb0f1.png)
 
 
