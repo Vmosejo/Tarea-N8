@@ -118,11 +118,21 @@ la figura 16-57.
 
 ![image](https://user-images.githubusercontent.com/93666408/154597274-a6fc086c-2a98-4506-abf8-a9bf3395d548.png)
 
-![image](https://user-images.githubusercontent.com/93666408/155193309-f8a8c378-089b-458e-9664-12a21338d11a.png)
+![image](https://user-images.githubusercontent.com/93666408/155197544-6f345a54-1ef0-43cb-b89f-87044328d0e4.png)
 
-![image](https://user-images.githubusercontent.com/93666408/155193423-4ededda4-b619-44d8-88d4-cd4d7f3a372a.png)
+![image](https://user-images.githubusercontent.com/93666408/155197592-055b95e1-8b5b-4681-9cfc-fc949c896da1.png)
 
-![image](https://user-images.githubusercontent.com/93666408/155193502-02fe8dd2-fddf-479d-8880-e542516b20c2.png)
+200Hz)
+
+![image](https://user-images.githubusercontent.com/93666408/155197668-97a6b76e-d4a7-41d9-9dbf-6961c72d4c70.png)
+
+500Hz)
+
+![image](https://user-images.githubusercontent.com/93666408/155197740-6f593c9c-d34b-404b-8c7f-0e834eca6535.png)
+
+1000)Hz
+
+![image](https://user-images.githubusercontent.com/93666408/155197829-6f33e444-fa0e-44a1-ba30-be5834314f1d.png)
 
 
 17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
