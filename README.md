@@ -1,9 +1,10 @@
 # Tarea-N8
 ## 1.OBJETIVOS
 ### 1.1  General
-
+* Analizar e implementar los conceptos adquiridos sobre circuitos RC y RL, mediante la resolución de los ejercicios propuestos en el texto Principios de circuitos eléctricos de Floyd, con el fin complementar los tópicos de la asignatura. 
 ### 1.2 Especificos
-
+* Identificar las características de los circuitos RC y RL, dispuestos en serie o en paralelo, mediante el estudio de los capítulos 15 y 16 del texto guía.
+* Resumir la teoría que consta en los capítulos 15 y 16, del texto guía, con el fin de complementarla con la resolución de los ejercicios propuestos en dichos capítulos.
 ## 2.MARCO TEÓRICO (RESUMEN)
 ### CAPÍTULO 15: Circuitos RC
 ![Parte 1](https://user-images.githubusercontent.com/93681159/154176960-e0ddebf4-60ee-4844-91b8-599caedae37c.jpg)
