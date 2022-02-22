@@ -41,8 +41,8 @@
 ![20](https://user-images.githubusercontent.com/93893919/155209097-e7f3e4d7-bae0-444f-8277-5fc882670414.png)
 23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias: 
 ![21](https://user-images.githubusercontent.com/93893919/155209105-8814a80b-c1f3-40fb-9df9-69f37e4d1c72.png)
-![22](https://user-images.githubusercontent.com/93893919/155209113-42984608-703c-465a-9037-bd096481df6e.png)
 25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
+![22](https://user-images.githubusercontent.com/93893919/155209113-42984608-703c-465a-9037-bd096481df6e.png)
 #### SECCIÓN 15–4 Análisis de circuitos RC en serie
 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
 ![27 1](https://user-images.githubusercontent.com/93893919/155209120-b8a0b610-7dfd-46e3-90ce-7a05cc1a1ea6.png)
