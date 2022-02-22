@@ -262,9 +262,20 @@ de 8 kHz.
 (a) L1 abierto (b) L2 abierto (c) R1 abierto (d) un cortocircuito a través de R2
 
 ![image](https://user-images.githubusercontent.com/93666408/154599609-11d68457-4632-4e84-a8cc-0062abdfb0f1.png)
-![image](https://user-images.githubusercontent.com/93666408/155200187-8b82dc5d-1b7b-423b-adcb-c9b5845e41cb.png)
-![image](https://user-images.githubusercontent.com/93666408/155200233-31c8ff7c-aa0e-49ff-8e36-ce574ceaaffa.png)
+(a)
 
+Si L1 abre entonces ya no hay circuito cerrado, significa que no hay flujo de corriente a través de cualquiera de los componentes y por lo tanto no hay caída de voltaje y se puede concluir que el voltaje de salida iguala a 0V.
+
+(b)
+Entonces B al igual que en el caso L1 cuando está abierto,si L2 abre,entonces ya no hay un circuito cerrado,por lo tanto no fluye corriente a través de ninguno de los componentes y no hay caída de voltaje. En 0V, entonces se llega a la conclusión que todos los voltajes son 0V.Esto incluye el voltaje de salida.
+
+(c)
+
+![image](https://user-images.githubusercontent.com/93666408/155201207-ae9bab9a-d881-4ee6-8df9-ea704e1e6c33.png)
+
+(d)
+
+![image](https://user-images.githubusercontent.com/93666408/155201265-0406a7c7-f9e5-4563-a333-2fc5c246c553.png)
 
 
 ## 4.VIDEO
