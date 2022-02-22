@@ -110,13 +110,26 @@ la figura 16-57.
 13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye ↔?
 ![image](https://user-images.githubusercontent.com/93666408/154597079-fd605191-7834-4457-8260-c6d8d680767a.png)
 
+![image](https://user-images.githubusercontent.com/93666408/155192959-c4abacbd-a727-4a64-8bab-cffb00d5c8fc.png)
+
+
 15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
 (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
 
 ![image](https://user-images.githubusercontent.com/93666408/154597274-a6fc086c-2a98-4506-abf8-a9bf3395d548.png)
 
+![image](https://user-images.githubusercontent.com/93666408/155193309-f8a8c378-089b-458e-9664-12a21338d11a.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155193423-4ededda4-b619-44d8-88d4-cd4d7f3a372a.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155193502-02fe8dd2-fddf-479d-8880-e542516b20c2.png)
+
+
 17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
 (a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz
+
+![image](https://user-images.githubusercontent.com/93666408/155194634-a292daf6-ab4e-41a6-8584-ed5887b1e833.png)
+
 
 ![image](https://user-images.githubusercontent.com/93666408/154597369-eca9a7f1-b08f-462a-8606-daa0a65106da.png)
 ### PARTE 2 CIRCUITOS EN PARALELO
