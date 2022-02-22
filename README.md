@@ -308,7 +308,7 @@ Entonces B al igual que en el caso L1 cuando está abierto,si L2 abre,entonces y
 
 
 ## 4.VIDEO
-
+https://www.youtube.com/watch?v=TfdUFNrpKWg
 ## 5.CONCLUSIONES 
 
 * Se llega a la conclusión que un circuito RC contiene tanto resistencia como capacitancia a su vez se analizan combinaciones dispuestas en serie-paralelo, la potencia verdadera, reactiva y aparente en los circuitos ya mencionados.
