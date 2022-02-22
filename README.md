@@ -259,6 +259,7 @@ de 8 kHz.
 
 #### SECCIÓN 16–9 Localización de fallas
 43. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
+
 (a) L1 abierto (b) L2 abierto (c) R1 abierto (d) un cortocircuito a través de R2
 
 ![image](https://user-images.githubusercontent.com/93666408/154599609-11d68457-4632-4e84-a8cc-0062abdfb0f1.png)
