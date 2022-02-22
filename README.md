@@ -89,9 +89,15 @@ La frecuecia en:
 7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
 
 ![image](https://user-images.githubusercontent.com/93666408/154596737-a2cbec48-f59e-4ee4-adbf-5ddcebc4d00e.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155189550-86408f1b-1872-4e23-afbf-c0710f290cb9.png)
+
 #### SECCIÓN 16–3 Análisis de circuitos RL en serie
 9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de
 la figura 16-57.
+
+![image](https://user-images.githubusercontent.com/93666408/155191128-d93a0d4b-2a85-4fd3-9dff-c71f445ed5b8.png)
+
 
 11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
 
