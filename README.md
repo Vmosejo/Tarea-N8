@@ -83,8 +83,10 @@
 59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
 ![58](https://user-images.githubusercontent.com/93893919/155209356-d5929cf3-306e-4177-b9e0-5df78d1ea020.png)
 61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95.
+![59](https://user-images.githubusercontent.com/93893919/155211033-7c0b5984-eb74-4c3b-a382-557155ebae6e.png)
 #### SECCIÓN 15–9 Aplicaciones básicas
 63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
+![63](https://user-images.githubusercontent.com/93893919/155211017-2b026cf2-bee6-4ffc-a153-7f8124ae3dff.png)
 #### SECCIÓN 15–10 Localización de fallas
 65. Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kÆ y la frecuencia de 10 Hz.
 ![65](https://user-images.githubusercontent.com/93893919/155209371-3a63f313-a653-4a95-bc4d-56bdf4cba97f.png)
