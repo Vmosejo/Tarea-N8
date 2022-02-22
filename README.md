@@ -17,34 +17,59 @@
 ### PARTE 1: CIRCUITOS EN SERIE
 #### SECCIÓN 15–1 El sistema de los números complejos
 1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
+![0](https://user-images.githubusercontent.com/93893919/155208851-2709bf9e-744f-4db8-81d3-8a5ee3caa859.png)
 3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
+![1](https://user-images.githubusercontent.com/93893919/155208899-cd28d495-84c8-41fa-a444-a5758b64498b.png)
 5. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 90° de los puntos del problema 3.
+![2](https://user-images.githubusercontent.com/93893919/155208918-d879884b-b18a-4b03-9930-035e6f62d97f.png)
 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+![3](https://user-images.githubusercontent.com/93893919/155208942-0904ebc6-6c7b-44e3-905c-93e5e8adcd3d.png)
 9. Convierta cada uno de los siguientes números polares a forma rectangular:
+![4](https://user-images.githubusercontent.com/93893919/155208952-324c1b02-9dc4-493c-83dd-c5d3edfb5d3e.png)
 11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
+![5](https://user-images.githubusercontent.com/93893919/155208961-2e08f31d-441b-4f9b-a485-64d372c789cb.png)
 13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
+![6](https://user-images.githubusercontent.com/93893919/155209028-27b0a202-142c-4ec6-9535-8d2bc106d917.png)
 15. Realice las siguientes sustracciones:
+![7](https://user-images.githubusercontent.com/93893919/155209048-6f5d850b-4d36-4898-82bb-63c6004aec83.png)
 17. Realice las siguientes divisiones:
+![8](https://user-images.githubusercontent.com/93893919/155209057-3e34a76b-c0cc-4918-814d-d3159ce67611.png)
 #### SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie
 19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+![19](https://user-images.githubusercontent.com/93893919/155209088-0351739e-f84b-403a-95ee-a3ea53b890b7.png)
 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
+![20](https://user-images.githubusercontent.com/93893919/155209097-e7f3e4d7-bae0-444f-8277-5fc882670414.png)
 23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias: 
+![21](https://user-images.githubusercontent.com/93893919/155209105-8814a80b-c1f3-40fb-9df9-69f37e4d1c72.png)
+![22](https://user-images.githubusercontent.com/93893919/155209113-42984608-703c-465a-9037-bd096481df6e.png)
 25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
 #### SECCIÓN 15–4 Análisis de circuitos RC en serie
 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+![27 1](https://user-images.githubusercontent.com/93893919/155209120-b8a0b610-7dfd-46e3-90ce-7a05cc1a1ea6.png)
+![27 2](https://user-images.githubusercontent.com/93893919/155209168-fdbdb168-642e-4968-a75b-d8bbbb502806.png)
 29. Repita el problema 28 para el circuito de la figura 15-86, con f = 5 kHz.
+![28](https://user-images.githubusercontent.com/93893919/155209198-18d43151-e067-419d-90e7-33c9d99ecf6a.png)
 31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
+![29](https://user-images.githubusercontent.com/93893919/155209206-6d6986d8-1e9b-4073-b9fc-0c10a361c9f7.png)
 33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requerimientos: Preal = 400 W y un factor de potencia de adelanto (Itot aparece adelantada con respecto a Vs).
+![30](https://user-images.githubusercontent.com/93893919/155209217-d1dbd649-56b1-4801-a297-03df16d915a1.png)
 35. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+![31](https://user-images.githubusercontent.com/93893919/155209228-c47c35a3-4a94-40ce-9bc4-d73a6a9edd29.png)
 37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+![32](https://user-images.githubusercontent.com/93893919/155209248-411c615b-57e4-4465-a068-8763a3b1f450.png)
 39. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz.
+![33](https://user-images.githubusercontent.com/93893919/155209271-9a796108-3d40-4c39-add8-4f8a40796123.png)
 ### PARTE 2: CIRCUITOS EN PARALELO
 #### SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo
 41. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.
+![41](https://user-images.githubusercontent.com/93893919/155209297-eb754e54-1b14-4c50-9c14-1671daee4327.png)
 #### SECCIÓN 15–6 Análisis de circuitos RC en paralelo
 43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
+![43](https://user-images.githubusercontent.com/93893919/155209307-3646986e-88ad-421c-bfbc-b98971097f16.png)
 45. Para el circuito de la figura 15-97, determine lo siguiente:
+![44](https://user-images.githubusercontent.com/93893919/155209322-9072cd86-824a-4e52-a94c-1387dc10e8eb.png)
 47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
+![45](https://user-images.githubusercontent.com/93893919/155209330-41cd016e-ea95-4ff4-ad3d-6c92dd439828.png)
 ### PARTE 3: CIRCUITOS EN SERIE-PARALELO
 #### SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo
 49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje.
@@ -54,14 +79,17 @@
 ### PARTE 4: TEMAS ESPECIALES
 #### SECCIÓN 15–8 Potencia en circuitos RC
 57. En un circuito RC en serie, la potencia real es de 2 Wy la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
+![57](https://user-images.githubusercontent.com/93893919/155209341-9d01d81e-46cc-4b2d-97e7-c5662d735a11.png)
 59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
+![58](https://user-images.githubusercontent.com/93893919/155209356-d5929cf3-306e-4177-b9e0-5df78d1ea020.png)
 61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95.
 #### SECCIÓN 15–9 Aplicaciones básicas
 63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
 #### SECCIÓN 15–10 Localización de fallas
 65. Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kÆ y la frecuencia de 10 Hz.
+![65](https://user-images.githubusercontent.com/93893919/155209371-3a63f313-a653-4a95-bc4d-56bdf4cba97f.png)
 67. Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
-
+![66](https://user-images.githubusercontent.com/93893919/155209382-a541b701-4147-4721-87c3-15bb2e00ef36.png)
 ### CAPÍTULO 16 CIRCUITOS RL
 ### PARTE 1: CIRCUITOS EN SERIE
 #### SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
