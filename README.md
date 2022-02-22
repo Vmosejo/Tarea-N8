@@ -81,6 +81,9 @@ La frecuecia en:
 5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
 (a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
 
+![image](https://user-images.githubusercontent.com/93666408/155186084-baa62178-08a7-4873-a287-2978182c1316.png)
+
+
 ![image](https://user-images.githubusercontent.com/93666408/154596678-eefd1e99-6921-4945-98ce-796ab356bc92.png)
 
 7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
