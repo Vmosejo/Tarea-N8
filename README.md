@@ -75,6 +75,9 @@ La frecuecia en:
 
 ![image](https://user-images.githubusercontent.com/93666408/154596600-592b52ce-10f8-427e-a9c2-6f8e5aadd82d.png)
 
+![image](https://user-images.githubusercontent.com/93666408/155161505-9fb84f09-b61f-4749-9f61-97627ac5649a.png)
+
+
 5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
 (a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
 
