@@ -183,27 +183,61 @@ d.
 
 ![image](https://user-images.githubusercontent.com/93666408/154597859-1890142f-f20e-4b73-a699-e7b1d5384f07.png)
 
+![image](https://user-images.githubusercontent.com/93666408/155198394-ac962a08-a89e-43ba-97a8-9c7185428d03.png)
+
+
 ### PARTE 3: CIRCUITOS EN SERIE-PARALELO
 #### SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
 
 ![image](https://user-images.githubusercontent.com/93666408/154598422-2823f88d-b04d-433a-8999-c4606b14a481.png)
 
+![image](https://user-images.githubusercontent.com/93666408/155198462-b114a572-e194-410a-80df-853e19c90ddc.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155198519-ad2a89cb-58b4-4141-b805-a9234b9d7244.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155198561-00d984a5-e131-4290-b827-2cc569d0518d.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155198601-f7e1daf4-641c-4952-9eec-0c62aa66a264.png)
+
 29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar.
 Trace el diagrama fasorial de la corriente.
 
+![image](https://user-images.githubusercontent.com/93666408/155198830-1fb2034b-da29-4721-a073-e26cd33c257c.png)
+
 31. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la
 salida en el circuito de la figura 16-71.
+
+![image](https://user-images.githubusercontent.com/93666408/155199039-dbb7ca84-f4b5-42d9-a2a4-ceb6b7262330.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155199076-5b608cac-ed8f-4de3-846f-8c8c8e20e512.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155199127-24250e2e-8eb0-4c8b-a497-5bb815a2e2df.png)
+
 33.Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra.El consumo de corriente de la fuente no debe exceder de 1 A.
+
+![image](https://user-images.githubusercontent.com/93666408/155199219-c6b33852-1b12-42eb-a6ee-043bb3145c4d.png)
+
 ### PARTE 4: TEMAS ESPECIALES
 #### SECCIÓN 16–7 Potencia en circuitos RL
 35.Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
 
 ![image](https://user-images.githubusercontent.com/93666408/154598959-1a1200d0-73e3-4f42-803b-6fa42f2340fb.png)
 
+![image](https://user-images.githubusercontent.com/93666408/155199307-77d68595-6081-4d41-9080-62d52bd3124c.png)
+
 37. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
 
 ![image](https://user-images.githubusercontent.com/93666408/154599067-2ff7c402-6b7a-4370-8eba-ba6e2f8e76ff.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155199392-1929f3aa-d598-46c2-9ba9-473b5121d31f.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155199437-91a9da42-ffbd-4a29-95fb-9fcca22dc56e.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155199487-4da516d0-e0b4-49c0-a92d-7c89e889c139.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155199552-ec8313be-732b-4b56-a60f-599e4aaa6023.png)
+
 
 #### SECCIÓN 16–8 Aplicaciones básicas
 39. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia
@@ -211,16 +245,25 @@ en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
 
 ![image](https://user-images.githubusercontent.com/93666408/154599238-2eb04140-88a2-4130-8066-a44a55ad7f44.png)
 
+![image](https://user-images.githubusercontent.com/93666408/155199853-ffcfa0e6-6967-4843-b688-2265a92e8d3e.png)
+![image](https://user-images.githubusercontent.com/93666408/155199923-053c910d-2b12-44c7-ae97-59eaefd62449.png)
+
+
 41. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia
 de 8 kHz.
 ![image](https://user-images.githubusercontent.com/93666408/154599322-bdf6a4d2-5f45-4178-969a-d923aea1e62e.png)
 ![image](https://user-images.githubusercontent.com/93666408/154599437-d493540b-4059-466b-8d21-1594228fcfd6.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155200027-50f44389-e72c-4256-a16f-8477d54deced.png)
+![image](https://user-images.githubusercontent.com/93666408/155200070-9785df0b-ca2f-40dc-8d3f-757f57ad5596.png)
 
 #### SECCIÓN 16–9 Localización de fallas
 43. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
 (a) L1 abierto (b) L2 abierto (c) R1 abierto (d) un cortocircuito a través de R2
 
 ![image](https://user-images.githubusercontent.com/93666408/154599609-11d68457-4632-4e84-a8cc-0062abdfb0f1.png)
+![image](https://user-images.githubusercontent.com/93666408/155200187-8b82dc5d-1b7b-423b-adcb-c9b5845e41cb.png)
+![image](https://user-images.githubusercontent.com/93666408/155200233-31c8ff7c-aa0e-49ff-8e36-ce574ceaaffa.png)
 
 
 
