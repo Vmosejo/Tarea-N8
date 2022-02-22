@@ -72,10 +72,8 @@
 ![45](https://user-images.githubusercontent.com/93893919/155209330-41cd016e-ea95-4ff4-ad3d-6c92dd439828.png)
 ### PARTE 3: CIRCUITOS EN SERIE-PARALELO
 #### SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo
-49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje.
-51. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
 53. Determine el valor de C2 en la figura 15-102 cuando VA = VB.
-55. Encuentre la corriente a través de cada componente en la figura 15-103.
+![51](https://user-images.githubusercontent.com/93893919/155211704-13c88d5f-dc30-4c1b-8bed-d4b0998ccf45.png)
 ### PARTE 4: TEMAS ESPECIALES
 #### SECCIÓN 15–8 Potencia en circuitos RC
 57. En un circuito RC en serie, la potencia real es de 2 Wy la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
