@@ -104,6 +104,9 @@ la figura 16-57.
 
 ![image](https://user-images.githubusercontent.com/93666408/154596906-b72ead66-17ba-4fc0-b352-8af7aa621501.png)
 
+![image](https://user-images.githubusercontent.com/93666408/155192197-3b935391-8bc1-435a-8e0e-57137ef8e5af.png)
+
+
 13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye ↔?
 ![image](https://user-images.githubusercontent.com/93666408/154597079-fd605191-7834-4457-8260-c6d8d680767a.png)
 
