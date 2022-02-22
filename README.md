@@ -146,8 +146,7 @@ la figura 16-57.
 #### SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
 19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
 
-![image](https://user-images.githubusercontent.com/93666408/155195618-f491d7ec-6850-4aaf-b829-37b3acb8feb6.png)
-
+![image](https://user-images.githubusercontent.com/93666408/155198227-6dd03bba-7b03-4921-b38f-541c07740017.png)
 
 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
