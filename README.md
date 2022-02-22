@@ -135,15 +135,39 @@ la figura 16-57.
 ### PARTE 2 CIRCUITOS EN PARALELO
 #### SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
 19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/93666408/155195618-f491d7ec-6850-4aaf-b829-37b3acb8feb6.png)
+
 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
 ![image](https://user-images.githubusercontent.com/93666408/154597588-ed10a7c9-99ed-4fd1-94b3-0ae2bde4d0dc.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155196511-44afb981-a9ec-47da-8ecf-c5dfb4dc63b0.png)
 
 #### SECCIÓN 16–5 Análisis de circuitos RL en paralelo
 23. Determine las siguientes cantidades en la figura 16-65:
 (a) Z (b)I_R (c)I_L (d) I_tot (e) ↔
 
 ![image](https://user-images.githubusercontent.com/93666408/154597783-10b47fd8-48c6-473c-a5ba-4bb3dd64aa5f.png)
+
+![image](https://user-images.githubusercontent.com/93666408/155196974-4faced0e-baf7-4d1b-8e25-21401217647a.png)
+
+a.
+
+![image](https://user-images.githubusercontent.com/93666408/155197126-dac08865-0953-4c4f-bbb5-f9c0b6540019.png)
+
+b.
+
+![image](https://user-images.githubusercontent.com/93666408/155197183-7a93436a-5063-40db-84ef-b49f5ce7da4a.png)
+
+c.
+
+![image](https://user-images.githubusercontent.com/93666408/155197287-eb02d455-a7e1-43e6-a47f-4aa94242c463.png)
+
+d.
+
+![image](https://user-images.githubusercontent.com/93666408/155197321-b38d1a98-d9ae-433e-8c9d-aa0999d66589.png)
+
 
 25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
 
