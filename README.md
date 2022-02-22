@@ -148,6 +148,7 @@ la figura 16-57.
 
 ![image](https://user-images.githubusercontent.com/93666408/155195618-f491d7ec-6850-4aaf-b829-37b3acb8feb6.png)
 
+
 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
 ![image](https://user-images.githubusercontent.com/93666408/154597588-ed10a7c9-99ed-4fd1-94b3-0ae2bde4d0dc.png)
