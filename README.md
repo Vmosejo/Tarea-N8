@@ -283,5 +283,8 @@ Entonces B al igual que en el caso L1 cuando está abierto,si L2 abre,entonces y
 
 ## 5.CONCLUSIONES 
 
+* Se llega a la conclusión que un circuito RC contiene tanto resistencia como capacitancia a su vez se analizan combinaciones dispuestas en serie-paralelo, la potencia verdadera, reactiva y aparente en los circuitos ya mencionados.
+* Se debe tomar en cuenta que los análisis de circuitos RL y RC son similares pero existe una diferencia principal es que las respuestas de fase son opuestas: la reactancia inductiva se incrementa con la frecuencia, en tanto que la reactancia capacitiva disminuye con la frecuencia.
+*  Es importante saber resolver sistemas de números complejos por lo que es una forma de expresar matemáticamente una cantidad fasorial y permite sumar, restar, multiplicar y dividir cantidades fasoriales.
 ## 6.BIBLIOGRAFÍA
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
